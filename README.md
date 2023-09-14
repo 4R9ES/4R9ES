@@ -1,5 +1,5 @@
 ### Hi there 👋
-aaaaaaaaa
+Gachon Univ. freshman in school of computing.
 <!--
 **4R9ES/4R9ES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
